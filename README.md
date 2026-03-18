@@ -40,9 +40,11 @@ Comandos para instalação
 
 >npm i --save-dev @types/jsonwebtoken // tipagem para jsonwebtoken
 
+>npm install systeminformation // para obter os dados do sistema CPU/Memoria/Disco etc..
 
+>npm install multer // para manipular upload de arquivos
 
-
+>npm install --save-dev @types/multer // instala as tipagens do multer
 
 
 
@@ -68,8 +70,4 @@ Comandos para instalação
 
 >git commit -m "update docker configuration"
 >git push
-
-
-
-
 
